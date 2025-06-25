@@ -1,7 +1,38 @@
-# NO-CHURN-TELECOM-PROJECT
-**Domain :** Telecommunications.
+# 📞 No-Churn Telecom Prediction
 
-**Data Information :** Customer data from telecom companies, including usage, billing, demographics, and interactions.
+This project predicts customer churn using machine learning. It helps telecom companies identify customers who are likely to leave, so they can take action to retain them.
 
-**Technology Used :** Predictive analytics and machine learning, like decision trees or logistic regression, to predict which customers are likely to leave (churn). It involves building models using historical data to foresee churn risks.
-    
+---
+
+# 🔧 Tools Used
+
+- Python (Pandas, NumPy, Scikit-learn)
+- Jupyter Notebook
+- Matplotlib, Seaborn
+
+---
+
+# 📌 What I Did
+
+1. Cleaned and explored the dataset
+2. Visualized key trends with EDA
+3. Handled missing and categorical data
+4. Built models (Logistic Regression, Random Forest)
+5. Evaluated model performance (accuracy, precision, recall)
+6. Shared insights to reduce churn
+
+---
+
+# 📈 Results
+
+- **Best Model**: Random Forest  
+- **Accuracy**: 86%  
+- Found that monthly charges, contract type, and support calls strongly affect churn.
+
+---
+
+# 👤 Author
+
+**Chandan Kumar**  
+[LinkedIn Profile](www.linkedin.com/in/chandan-kumar-professional)
+
